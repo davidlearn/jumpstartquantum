@@ -1,4 +1,4 @@
-# jumpstartquantum
+
 Jumpstart Quantum is a quantum-inspired and quantum optimization software as a service (QIQOaaS) company.
 We provide end-to-end application optimization services:
 
